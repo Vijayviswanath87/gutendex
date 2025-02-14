@@ -1,4 +1,4 @@
-# 📚 Django Gutendex API with DataTables & Swagger
+# 📚 Django Gutendex API with & Swagger
 
 This project provides a **REST API** for accessing books from the Gutenberg database with:
 ✔ **Django Rest Framework (DRF)**
